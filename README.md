@@ -14,6 +14,9 @@
 
 </div>
 
+## What is it?
+This is an improvement of [this demo](https://stackblitz.com/github/piniajs/example-vue-3-vite)
+
 ## Usage
 
 ```sh
