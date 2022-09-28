@@ -32,6 +32,9 @@ import { version as vueVersion } from 'vue/package.json'
 </script>
 
 <style scoped>
+header {
+  background-color: #f4cb52;
+}
 .logo {
   width: 1.5rem;
   height: 1.5rem;
